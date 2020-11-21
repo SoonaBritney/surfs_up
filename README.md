@@ -13,6 +13,7 @@ We analized the temperature of June and December between 2010 and 2017 to see if
 1) June - we analized the temprature of June between 2010 and 2017, whcih was 1700 record, average temprature is 74.9 F, standard deviation is 3.25, the lowest temprature is 64 F, and the highest temprature is 85 F. We concluded the June temprature is very good for ice cream buisness in Oahu.  
 
 =================================
+
 count: 1700.000000
 mean: 74.944118
 std: 3.257417
