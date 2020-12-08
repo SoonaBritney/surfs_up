@@ -1,5 +1,7 @@
 # surfs_up
 
+
+
 Overview of the statistical analysis:
 
 1. Overview of the analysis:
@@ -12,6 +14,10 @@ We analized the temperature of June and December between 2010 and 2017 to see if
 
 1) June - we analized the temprature of June between 2010 and 2017, whcih was 1700 record, average temprature is 74.9 F, standard deviation is 3.25, the lowest temprature is 64 F, and the highest temprature is 85 F. We concluded the June temprature is very good for ice cream buisness in Oahu.  
 
+June temprature (screenshot)
+https://github.com/SoonaBritney/surfs_up/blob/main/capture_june_temprature.PNG
+
+June Summary
 =================================
 
 count: 1700.000000
@@ -27,7 +33,10 @@ max: 85.000000
 
 2) December - we anaized the temprature of December between 2010 and 2017, whcih was 1517 record, average temprature is 71.04 F, standard deviation is 3.74, the lowest temprature is 56 F, and the highest temprature is 83 F. We concluded the December temprature is very good for ice cream buisness in Oahu.
 
+December Temprature (screenshot)
+https://github.com/SoonaBritney/surfs_up/blob/main/Capture_december_temprature.PNG
 
+December Summary
 =================================
 
 count: 1517.000000
